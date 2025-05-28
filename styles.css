@@ -3,8 +3,8 @@ body{
 }
 
 h1{
-  font-size: 60px;
-  height: 60px;
+  font-size: 120px;
+  height: 150px;
   color: #353839;
   background-color: #EA1A1A;
   text-align: center;
@@ -12,7 +12,7 @@ h1{
   font-family: Times New Roman;
 }
 #a{
-  font-size: 30px;
+  font-size: 80px;
   height: 30px;
   color: black;
   text-align: center;
@@ -26,5 +26,5 @@ hr{
 
 #b{
   color: #AA0A0A;
-  font-size: 20px;
+  font-size: 60px;
 }
